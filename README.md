@@ -10,3 +10,5 @@ I mostly use GitHub for school assignments and learning basic technology skills.
 
 ### 📫 Contact
 - LinkedIn: [Your LinkedIn Link]
+This update is for my class assignment.
+
