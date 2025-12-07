@@ -8,7 +8,5 @@ I mostly use GitHub for school assignments and learning basic technology skills.
 - Basic coding concepts  
 - How to stay organized with projects  
 
-### 📫 Contact
-- LinkedIn: [Your LinkedIn Link]
-This update is for my class assignment.
+### This update is for my class assignment.
 
